@@ -11,4 +11,7 @@ primaryColor = "#0066cc"
 backgroundColor = "#ffffff"
 secondaryBackgroundColor = "#f0f2f6"
 textColor = "#262730"
-font = "sans serif" 
+font = "sans serif"
+
+[runner]
+pipInstallCommand = "pip install --default-timeout=100 --pre -r requirements.txt" 
