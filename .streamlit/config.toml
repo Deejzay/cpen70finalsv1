@@ -13,5 +13,5 @@ secondaryBackgroundColor = "#f0f2f6"
 textColor = "#262730"
 font = "sans serif"
 
-[runner]
-pipInstallCommand = "pip install --default-timeout=100 --pre -r requirements.txt" 
+[compatibility]
+pythonVersion = "3.9" 
